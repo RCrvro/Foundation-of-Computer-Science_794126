@@ -1,4 +1,4 @@
-# Foundation-of-Computer-Science_794126 \
+# Foundation-of-Computer-Science_794126 
 Final Project of Foundation of Computer Science Course \
 Riccardo Cervero \
 Roll number: 794126 \
